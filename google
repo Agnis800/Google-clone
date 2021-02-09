@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Google</title>
+</head>
+
+<style>
+    .smaller-image {
+        width: 100px;
+    }
+</style>
+
+<body>
+
+<img src="https://www.google.lv/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo ">
+<a href="https://mail.google.com/mail/&ogbl"> Gmail</a>
+<a href="https://www.google.lv/imghp?hl=lv&ogbl"> Attēli</a>
+<a href="https://www.google.lv/intl/lv/about/products"> Lietotnes</a>
+<a href="https://accounts.google.com/SignOutOptions?hl=lv&continue=https://www.google.com/"><img src="https://lh3.googleusercontent.com/ogw/ADGmqu9yQH1KpZkukBxjH2hJF6QidarJwPRkkCcm6S4L_A=s32-c-mo" alt="Profile picture. "</a>
+
+<img class="smaller-image"src="https://www.google.com/images/hpp/shield_security_checkup_green_2x_web_96dp.png" alt="Security check "> 
+
+<p>Drošāka interneta diena. <a href="https://www.google.com/url?q=https://myaccount.google.com/security-checkup%3Futm_medium%3Dhpp%26utm_source%3Dgoogle%26utm_campaign%3Dsaferinternetday2021&source=hpp&id=19022717&ct=3&usg=AFQjCNFhwwerjnXpezTyHzYtJLRRiAje4Q&sa=X&ved=0ahUKEwiwv9ir89zuAhWIlosKHbzAC_8Q8IcBCA4"> Izpildiet 2 minūšu konta drošības iestatījumu pārbaudi.</a></p>
+
+<p>Google piedāvājums: <a href="https://www.google.lv/setprefs?sig=0_MmIMAtLLDr6kNrc4kjd0ryF1nVc%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwiwv9ir89zuAhWIlosKHbzAC_8Q2ZgBCBA"> English </a> <a href="https://www.google.lv/setprefs?sig=0_MmIMAtLLDr6kNrc4kjd0ryF1nVc%3D&hl=lt&source=homepage&sa=X&ved=0ahUKEwiwv9ir89zuAhWIlosKHbzAC_8Q2ZgBCBE"> lietuvių </a> <a href="https://www.google.lv/setprefs?sig=0_MmIMAtLLDr6kNrc4kjd0ryF1nVc%3D&hl=ru&source=homepage&sa=X&ved=0ahUKEwiwv9ir89zuAhWIlosKHbzAC_8Q2ZgBCBI"> русский </a> </p>
+
+
+</body>
+
+</html>
